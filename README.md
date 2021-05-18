@@ -49,7 +49,7 @@ Windows)*:
 $ pip install tensorflow
 ```
 
-A smaller CPU-only package is also available:
+A CPU-only package is also available (for smaller CPUs):
 
 ```
 $ pip install tensorflow-cpu
